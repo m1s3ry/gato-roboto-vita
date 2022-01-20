@@ -4,7 +4,9 @@ Patch to make Gato Roboto playable on the PS Vita
 
 ## Disclaimer
 This patch does not contain any game files from Gato Roboto. **You need the game files from your legally owned copy**.
-If you don't have a copy of the game, you can buy it [HERE](https://store.steampowered.com/app/916730/Gato_Roboto/)
+
+If you don't have a copy of the game, you can buy it [HERE](https://store.steampowered.com/app/916730/Gato_Roboto/).
+
 It **WILL NOT WORK** with a pirate copy of the game due to hash check. ALWAYS support indie devs.
 
 ## Instructions (Read them carefully)
@@ -25,6 +27,7 @@ It **WILL NOT WORK** with a pirate copy of the game due to hash check. ALWAYS su
 
 ## Credits
 Credits for the original game go to doinksoft team.
+
 Additional credits for the port goes to @Grossleymoo for UTMT and helping/teaching me to port GMS games to Vita.
 
 ## Donations

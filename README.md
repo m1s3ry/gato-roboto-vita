@@ -5,7 +5,7 @@ Patch to make Gato Roboto playable on the PS Vita
 ## Disclaimer
 This patch does not contain any game files from Gato Roboto. **You need the game files from your legally owned copy**.
 If you don't have a copy of the game, you can buy it [HERE](https://store.steampowered.com/app/916730/Gato_Roboto/)
-It **WILL NOT WORK* with an illegal copy of the game due to hash check. ALWAYS support indie devs.
+It **WILL NOT WORK** with a pirate copy of the game due to hash check. ALWAYS support indie devs.
 
 ## Instructions (Read them carefully)
 1. Download the VPK and install it on your hacked PS Vita

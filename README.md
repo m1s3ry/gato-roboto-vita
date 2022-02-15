@@ -11,7 +11,7 @@ It **WILL NOT WORK** with a pirate copy of the game due to hash check. ALWAYS su
 
 ## Instructions (Read them carefully)
 1. Download the VPK and install it on your hacked PS Vita
-2. In your PC, open the folder where Gato Roboto is installed (Steam -> Right-click on the game -> Manage -> Browse Local Files)
+2. In your PC, open the folder where Gato Roboto is installed (Steam -> Right-click on the game -> Manage -> Browse Local Files for Steam, Install Folder Location on GoG version)
 3. Download the patch and extract it in that folder. After that, run `apply_patch.bat`.
 4. If everything went correctly, a `Patched_Files` folder will be created with various files, including a `game.win`.
 5. Copy the entire contents of `Patched_Files` to `ux0:app/GATOROBOT/games`. Overwrite when prompted. 
